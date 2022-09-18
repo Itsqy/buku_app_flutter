@@ -1,6 +1,6 @@
 # book_app
 
-A new Flutter project.
+A new Book of IDN .id  Flutter project.
 
 ## Getting Started
 
